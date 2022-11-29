@@ -1,0 +1,144 @@
+/* Cabeçalho e rodapé */
+
+/* Cabeçalho */
+
+header {
+	background: url("imagens/Rodape.jpg");
+	padding: 70px 0;
+}
+
+nav {
+	position: relative;
+	margin: 0 0 0 150px;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+.imagem-logo {
+	position: absolute;
+	width: 130px;
+	top: 0px;
+	right: 0;
+	margin: 20px 200px 15px 0;
+}
+
+/* Rodapé */
+
+footer {
+	text-align: center;
+	background: url("imagens/Rodape.jpg");
+	padding: 40px 0;
+}
+
+.imagem-rodape {
+	width: 130px;
+}
+
+.copyright {
+	color: #FFFFFF;
+}
+
+/* Index.html */
+
+/* Sobre nós */
+.principal {
+	padding: 3em 0;
+	background: #FEFEFE;
+	width: 940px;
+	margin: 0 auto;	
+}
+
+.titulo-principal {
+	text-align: center;
+	font-size: 2.5em;
+	margin: 0 0 1em;
+}
+
+.principal p {
+	margin: 0 0 1em;
+	font-size: 1.3em;
+}
+
+.principal strong {
+	font-weight: bold;
+}
+
+.principal em {
+	font-style: italic;
+}
+
+/* Qualidades */
+.qualidades {
+	padding: 3em 0;
+	background: linear-gradient(#FEFEFE, #bcb7ab);
+}
+
+.titulo-qualidade {
+	text-align: center;
+	font-size: 2.5em;
+	margin: 0 0 0.5em;
+}
+
+.lista-qualidades {
+	text-align: center;
+	vertical-align: top;
+	font-size: 1.3em;
+}
+
+.itens {
+	line-height: 1.5;
+}
+
+.itens:before {
+	content: "★";
+}
+
+.itens:first-child {
+	font-weight: bold;
+}
+
+/* Localização */
+
+.mapa {
+	background: #bcb7ab;
+	padding: 3em 0;
+}
+
+.titulo-mapa {
+	text-align: center;
+	font-size: 2.5em;
+	font-weight: bold;
+	margin: 0 0 1em 0;
+}
+
+.mapa p {
+	text-align: center;
+	margin: 0 0 2em;
+	font-size: 1.3em;
+}
+
+.mapa-google {
+	width: 940px;
+	margin: 0 auto 2em auto;
+}
+
+
+
+
+
+
+
+/* #bcb7ab */
+
+/*  */
